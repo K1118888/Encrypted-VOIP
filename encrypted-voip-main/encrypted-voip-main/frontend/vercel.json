@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "public": true,
-  "name": "encrypted-voip-frontend",
-  "cleanUrls": true,
-  "trailingSlash": false
-}
